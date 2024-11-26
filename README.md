@@ -38,11 +38,11 @@ To set up an isolated environment for the project:
   python -m venv env
   source env/bin/activate
     ```
-3.  Install required dependencies:
+3. Install required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-4.  Run the project:
+4. Run the project:
    ```bash
    python main.py
    ```
